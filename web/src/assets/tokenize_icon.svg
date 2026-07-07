@@ -1,4 +1,1 @@
-<svg viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="25" cy="25" r="25" fill="deepskyblue"/>
-  <text x="25" y="37" font-size="36" text-anchor="middle" fill="white" font-weight="bold">T</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><circle cx="25" cy="25" r="25" fill="#00bfff"/><text x="25" y="37" fill="#fff" font-size="36" font-weight="bold" text-anchor="middle">T</text></svg>
